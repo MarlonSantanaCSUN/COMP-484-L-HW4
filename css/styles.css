@@ -1,14 +1,16 @@
 html, body {
-	background: #663399; /* Beccapurple */
+	background: #0f0f14;
 	margin: 0;
+	color: #e6e6e6;
 }
 h1, h2, h3, h4, h5, h6, p {
 	margin: 0;
 	padding: 0;
 }
-h1, h2, h3, h4, h5, h6 {
-	color: rgb(107, 107, 132);
+h1, h2, h3 {
+  color: #ff7b00;
 }
+
 body {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 100%;
@@ -16,13 +18,13 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.5% 2.5% 0;
-	background: white;
+	background: #1b1b26;
 	line-height: 1.8;
 }
 h1 {
 	font: 1.6em Verdana, Geneva, sans-serif;
 	margin-bottom: .4em;
-	color: rgb(83, 104, 138);
+	color: #ff7b00;
 }
 h2 {
 	font: 3.2em Georgia, "Times New Roman", Times, serif;
@@ -35,17 +37,17 @@ p {
 	margin-bottom: 1em;
 }
 a {
-	color: rgb(184, 126, 84);
+	color: #cb6200;
 }
 a:hover {
-	color: rgb(120, 97, 55);
+	color: #964900;
 }
 pre {
 	font-size: 1.4em;
 	color: white;
 	padding: .5em 1em;
-	border-left: 1em solid #A68048;
-	background: #666;
+	border-left: 1em solid #ff7b00;
+	background: #a3a3a3;
 	white-space: pre-wrap;
 	white-space: -moz-pre-wrap;
 	white-space: -pre-wrap;
@@ -87,7 +89,7 @@ header h2 {
 }
 aside {
 	padding: 1em;
-	background:rgb(83, 104, 138);
+	background:#26263a;
 	color: white;
 	margin-bottom: 1em;
 }
